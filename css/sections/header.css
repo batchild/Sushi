@@ -16,7 +16,7 @@
     inset: 0;
     width: 100%;
   
-    background-color: #b1454a;
+    background-color: var(--primary-color);
     z-index: -1;
   }
   
